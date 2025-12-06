@@ -69,7 +69,7 @@ ZMR / Flow Balance
 
 **To report bugs, errors, or unexpected application behavior.**
 
-**Guide:** Please include the App Version, the Operating System, and if reporting an error, describe the steps to reproduce it. Your feedback is crucial!
+**Guide:** Please include the App Version, the Version of the Operating System, and if reporting an error, describe the steps to reproduce it. Your feedback is crucial!
 
 * **Email:** helpZMR+flowbalance@proton.me
 
@@ -137,6 +137,6 @@ ZMR / Flow Balance
 
 **Para reportar fallos, errores o comportamientos inesperados de la aplicación.**
 
-**Guía:** Por favor, incluye la Versión de la App, el Sistema Operativo, y si reportas un error, describe los pasos para reproducirlo. ¡Tu feedback es crucial!
+**Guía:** Por favor, incluye la Versión de la App, la Version del Sistema Operativo, y si reportas un error, describe los pasos para reproducirlo. ¡Tu feedback es crucial!
 
 * **Correo:** helpZMR+flowbalance@proton.me
