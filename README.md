@@ -29,6 +29,8 @@ We focus on three fundamental pillars:
 
 ## ✨ Key Features
 
+> ⚠ **Warning:** The app **does not display currency conversion rates** and does not perform currency exchanges. All records remain in the currency you choose.
+
 | Feature | 🎯 Key Benefit |
 | :--- | :--- |
 | **✔ Multi-language Support** | **Available in Spanish and English.** The app automatically detects your device's regional settings. |
@@ -96,6 +98,8 @@ Nos centramos en tres pilares fundamentales:
 ---
 
 ## ✨ Características Principales
+
+> ⚠ **Advertencia:** La aplicación **no muestra tasas de conversión de divisas** ni realiza cambios de moneda. Todos los registros permanecen en la moneda que elijas.
 
 | Característica | 🎯 Beneficio Clave |
 | :--- | :--- |
