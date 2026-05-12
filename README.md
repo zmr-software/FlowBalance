@@ -31,24 +31,36 @@ We focus on three fundamental pillars:
 
 > ⚠ **Warning:** The app **does not display currency conversion rates** and does not perform currency exchanges. All records remain in the currency you choose.
 
-| Feature | 🎯 Key Benefit |
+| Feature | Key Benefit |
 | :--- | :--- |
-| **✔ Multi-language Support** | **Available in Spanish and English.** The app automatically detects your device's regional settings. |
-| **✔ Intuitive Interface** | Smooth navigation. The design is **simple and practical**, so you can start recording immediately. |
-| **🔍 Efficient Search and Filtering** | Find any transaction in seconds using the search bar and **advanced filters**. |
-| **📊 Visual Analysis** | Turn numbers into insights. **Clear and detailed** graphs give you instant decision-making perspectives. |
-| **➕ Automatic Interest Calculation** | Simplify debt and savings tracking. Automatic calculation of **generated or payable interests**. |
+| **Multi-Account Support** | Total Organization. Create multiple accounts to separate your personal, work, or savings finances. |
+| **Multi-language Support** | **Available in Spanish and English.** The app automatically detects your device's regional settings. |
+| **Intuitive Interface** | Smooth navigation. The design is **simple and practical**, so you can start recording immediately. |
+| **Efficient Search and Filtering** | Find any transaction in seconds using the search bar and **advanced filters**. |
+| **Visual Analysis** | Turn numbers into insights. **Clear and detailed** graphs give you instant decision-making perspectives. |
+| **Automatic Interest Calculation** | Simplify debt and savings tracking. Automatic calculation of **generated or payable interests**. |
 
 ---
 
-## ⬇️ Download and Usage (Sideload Distribution)
+## ⬇️ Download and Setup (Sideload Distribution)
 
-**Flow Balance** is distributed via **sideload**, downloading the package directly from GitHub.
+**Flow Balance** is not available on the Play Store; it is downloaded directly from its official source on GitHub. This process is known as "Sideloading" (external installation), **To avoid security risks, always remember to download the app only from the official zmr-software link.**
 
-1. Open the **Releases** tab:  
+## Choose the Right Version for Your Phone
+* arm64-v8a (Recommended): This version is for modern smartphones. If you bought your phone in the last 5 or 6 years, this is the one you should download. It is faster and more efficient.
+* armeabi-v7a: For older or budget devices (models from 7 or 8+ years ago).
+* universal: If you aren't sure which one to pick, download this one. It works on any phone, though the file size is usually a bit larger.
+
+## Installation Steps
+* Go to the Official Site: Visit the Releases tab on GitHub:
    https://github.com/zmr-software/FlowBalance/releases
-2. Download the latest installation file (e.g., `.apk` for Android).  
-3. Install and run the app without complex steps.
+* Download the File: Look for the file ending in .apk (based on the list above) and tap it to start the download.
+* Authorize Installation: When you open the file, Android may display a message stating, "For your security, your phone is not allowed to install unknown apps from this source."
+
+   * Click on Settings (within that same prompt).
+   * Toggle the switch for "Allow from this source."
+
+* Install and Enjoy: Go back, tap Install, and once finished, open the app. That’s it!
 
 ---
 
@@ -101,33 +113,36 @@ Nos centramos en tres pilares fundamentales:
 
 > ⚠ **Advertencia:** La aplicación **no muestra tasas de conversión de divisas** ni realiza cambios de moneda. Todos los registros permanecen en la moneda que elijas.
 
-| Característica | 🎯 Beneficio Clave |
+| Característica | Beneficio Clave |
 | :--- | :--- |
-| **✔ Soporte Multilenguaje** | **Disponible en español e inglés.** La app detecta automáticamente la configuración regional. |
-| **✔ Interfaz Intuitiva** | Navegación fluida, diseño **simple y práctico** para comenzar al instante. |
-| **🔍 Búsqueda y Filtrado Eficiente** | Encuentra cualquier transacción en segundos con la barra de búsqueda y **filtros avanzados**. |
-| **📊 Análisis Visual** | Convierte números en conocimiento. Gráficos **claros y detallados** para una visión inmediata. |
-| **➕ Cálculo Automático de Intereses** | Simplifica deudas y ahorros. Calcula automáticamente los **intereses generados o pagaderos**. |
+| **Gestión de Multicuentas** | Organización total. Crea varias cuentas para separar tus finanzas personales, laborales o de ahorro. |
+| **Soporte Multilenguaje** | **Disponible en español e inglés.** La app detecta automáticamente la configuración regional. |
+| **Interfaz Intuitiva** | Navegación fluida, diseño **simple y práctico** para comenzar al instante. |
+| **Búsqueda y Filtrado Eficiente** | Encuentra cualquier transacción en segundos con la barra de búsqueda y **filtros avanzados**. |
+| **Análisis Visual** | Convierte números en conocimiento. Gráficos **claros y detallados** para una visión inmediata. |
+| **Cálculo Automático de Intereses** | Simplifica deudas y ahorros. Calcula automáticamente los **intereses generados o pagaderos**. |
 
 ---
 
 ## ⬇️ Descarga y Uso (Distribución Sideload)
 
-**Flow Balance** se instala mediante **sideload**, descargando el paquete desde GitHub.
+**Flow Balance** no se descarga desde la Play Store, sino directamente desde su fuente oficial en GitHub. Este proceso se conoce como Sideloading (instalación externa), **Recuerda siempre descargarla únicamente desde el enlace oficial de zmr-software para evitar riesgos de seguridad**.
 
-1. Ve a la pestaña **Releases**:  
+## Elige la versión correcta para tu móvil
+* arm64-v8a (Recomendado): Es la versión para móviles modernos. Si compraste tu teléfono en los últimos 5 o 6 años, esta es la que debes bajar. Es más rápida y eficiente.
+* armeabi-v7a: Para móviles antiguos o de gama muy baja (modelos de hace más de 7 u 8 años).
+* universal: Si no estás seguro de cuál elegir, descarga esta. Funciona en cualquier teléfono, aunque el archivo suele ser un poco más pesado.
+
+## Pasos para la instalación
+* Entra a la web oficial: Ve a la pestaña de lanzamientos en GitHub:
    https://github.com/zmr-software/FlowBalance/releases
-2. Descarga el archivo más reciente (ej. `.apk` para Android).  
-3. Instala y ejecuta la app sin pasos complejos.
+* Descarga el archivo: Busca el archivo que termina en .apk (basándote en la lista de arriba) y púlsalo para iniciar la descarga.
+* Autoriza la instalación: Al abrir el archivo, es posible que Android te diga que "por seguridad, tu teléfono no tiene permiso para instalar apps de esta fuente".
 
----
+   * Haz clic en Ajustes (en ese mismo aviso).
+   * Activa la casilla "Permitir desde esta fuente".
 
-## ⚙️ Tecnologías Utilizadas
-
-* **Kotlin:** Elegido por su concisión y seguridad.  
-* **Jetpack Compose:** Para una **interfaz moderna** y de alto rendimiento.  
-* **Room:** Persistencia de datos **local y completamente offline**.  
-* **Criptografía:** Garantiza la **protección y seguridad** de tus datos financieros.
+* Instala y disfruta: Regresa atrás, dale a Instalar y, una vez finalizado, abre la app. ¡Eso es todo!
 
 ---
 
