@@ -1,13 +1,13 @@
-<p align="center">
+<div align="center">
   <img src="media/icon_app.png" alt="Flow Balance Icon" width="120" />
-</p>
+</div>
 
 <h1 align="center">Flow Balance</h1>
 
 ## 🌐 Available Languages / Idiomas Disponibles
 
-* [🇺🇸 English Version](#-english) — **Your Personal Finance Manager, Simple and Private**
-* [🇪🇸 Versión en Español](#-español) — **Tu Gestor de Finanzas Personal, Simple y Privado**
+* [🇺🇸 English Version](#-english) — **Your Finance Manager, Simple and Private**
+* [🇪🇸 Versión en Español](#-español) — **Tu Gestor de Finanzas, Simple y Privado**
 
 ---
 
@@ -22,44 +22,9 @@ Flow Balance is the modern solution for managing your personal finances. Designe
 
 <br>
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <b>📱 Simple & Practical Interface</b><br>
-      Smooth and frictionless navigation.
-    </td>
-    <td align="center" width="50%">
-      <b>🛡️ Data Backups</b><br>
-      Keep your information safe and transportable.
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="media/feature_en_details.png" alt="Simple and Practical Interface" width="260" />
-    </td>
-    <td align="center">
-      <img src="media/feature_en_manage.png" alt="Data Backups" width="260" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <b>📊 Visual Analytics & Statistics</b><br>
-      Turn numbers into actionable insights.
-    </td>
-    <td align="center" width="50%">
-      <b>🗂️ Multi-Account Support</b><br>
-      Separate your personal, work, or savings finances.
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="media/feature_en_statistic.png" alt="Statistics" width="260" />
-    </td>
-    <td align="center">
-      <img src="media/feature_en_accounts.png" alt="Multi-Account Support" width="260" />
-    </td>
-  </tr>
-</table>
+| 1 | 2 | 3 | 4 |
+| --- | --- | --- | --- |
+| ![](media/feature_en_details.png) | ![](media/feature_en_manage.png) | ![](media/feature_en_statistic.png) | ![](media/feature_en_accounts.png) |
 
 ---
 
@@ -68,8 +33,7 @@ Flow Balance is the modern solution for managing your personal finances. Designe
 Flow Balance is downloaded directly from its official source on GitHub (**Sideloading**). To avoid security risks, always download only from the official `zmr-software` link.
 
 #### 1. Choose the Right Version for Your Phone
-* **arm64-v8a (Recommended):** For modern smartphones (bought in the last 5-6 years). Faster and more efficient.
-* **armeabi-v7a:** For older or budget devices (models from 7-8+ years ago).
+* **arm64-v8a (Recommended):** For modern smartphones. Faster and more efficient.
 * **universal:** Works on any phone, though the file size is a bit larger.
 
 #### 2. Installation Steps
@@ -110,44 +74,9 @@ Flow Balance es la solución moderna para la gestión de tus finanzas personales
 
 <br>
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <b>📱 Interfaz Simple y Práctico</b><br>
-      Navegación fluida y sin fricciones en el día a día.
-    </td>
-    <td align="center" width="50%">
-      <b>🛡️ Copias de Seguridad</b><br>
-      Mantén tus datos financieros seguros y transportables.
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="media/feature_en_details.png" alt="Interfaz Simple y Práctica" width="260" />
-    </td>
-    <td align="center">
-      <img src="media/feature_en_manage.png" alt="Copias de Seguridad" width="260" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <b>📊 Estadísticas y Análisis Visual</b><br>
-      Convierte números en conocimiento inmediato.
-    </td>
-    <td align="center" width="50%">
-      <b>🗂️ Soporte Multicuentas</b><br>
-      Separa finanzas personales, laborales o de ahorro.
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="media/feature_en_statistic.png" alt="Estadísticas" width="260" />
-    </td>
-    <td align="center">
-      <img src="media/feature_en_accounts.png" alt="Soporte Multicuentas" width="260" />
-    </td>
-  </tr>
-</table>
+| 1 | 2 | 3 | 4 |
+| --- | --- | --- | --- |
+| ![](media/feature_es_details.png) | ![](media/feature_es_manage.png) | ![](media/feature_es_statistic.png) | ![](media/feature_es_accounts.png) |
 
 ---
 
@@ -156,8 +85,7 @@ Flow Balance es la solución moderna para la gestión de tus finanzas personales
 Flow Balance se descarga directamente desde su fuente oficial en GitHub mediante **Sideloading** (instalación externa). Descárgala únicamente desde el enlace oficial de `zmr-software` para evitar riesgos de seguridad.
 
 #### 1. Elige la versión correcta para tu móvil
-* **arm64-v8a (Recomendado):** Para móviles modernos (comprados en los últimos 5 o 6 años). Es más rápida y eficiente.
-* **armeabi-v7a:** Para móviles antiguos o de gama muy baja (modelos de hace más de 7 u 8 años).
+* **arm64-v8a (Recomendado):** Para móviles modernos. Es más rápida y eficiente.
 * **universal:** Funciona en cualquier teléfono, aunque el archivo suele ser un poco más pesado.
 
 #### 2. Pasos para la instalación
