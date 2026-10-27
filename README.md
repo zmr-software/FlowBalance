@@ -6,8 +6,8 @@
 
 ## 🌐 Languages / Idiomas
 
-* [English](#-english) — **Your Finance Manager, Simple and Private**
-* [Español](#-español) — **Tu Gestor de Finanzas, Simple y Privado**
+* English — **Your Finance Manager, Simple and Private**
+* [Toca para leer en Español](#-español) — **Tu Gestor de Finanzas, Simple y Privado**
 * Française — **Votre gestionnaire de finances, simple et privé**
 * हिन्दी — **आपका वित्त प्रबंधक, सरल और निजी**
 
